@@ -1,3 +1,18 @@
+"""Q.PROBLEM STATEMENT : In a second year computer engineering class, group A students play cricket, 
+group B students play badminton and group C students play football. Write a python program using 
+functions to compute following:
+a) List ofstudents who play both cricket and badminton.
+b) List ofstudents who play either cricket or badminton but not both.
+c) Number of students who play neither cricket nor badminton.
+d) Number of students who play cricket and football but not badminton.
+(NOTE : While realising the group, duplicate entries should be avoided. Do not use SET built-in 
+functions)
+Name: Anuja Aher
+Class: SE Comp 2
+Batch: R
+Clg PRN: F24122006
+Seat no: """
+
 # Helper function to remove duplicates from a list
 def remove_duplicates(lst):
     unique_list = []
